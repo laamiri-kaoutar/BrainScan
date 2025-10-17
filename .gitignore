@@ -1,0 +1,13 @@
+/data
+/notebooks/test
+models/*.h5
+models/*.keras
+
+# Ignore model files
+models/*.h5
+models/*.keras
+
+# Ignore temporary files
+*.pyc
+__pycache__/
+temp.jpg
